@@ -1,1 +1,17 @@
+# Jekyll-generated folder
+_site/
+
+# Jekyll build-related folders
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass-related folders
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Common OS-generated files
 .DS_Store
+Thumbs.db
