@@ -1,0 +1,10 @@
+# main navigation
+main:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  # - title: "Projects" # We will add this in the next step
+  #   url: /projects/

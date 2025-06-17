@@ -1,0 +1,46 @@
+# Welcome to Jekyll!
+
+# Site Settings
+title: Your Name
+name: Your Name
+email: your-email@example.com
+include: ["_pages"]
+
+# Theme Settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "default" etc.
+
+# Production-specific settings
+url: "https://tangsun.github.io"
+repository: "tangsun/tangsun.github.io"
+baseurl: ""
+
+# Site Author
+author:
+  name             : "Your Name"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "PhD Candidate in Computer Science"
+  location         : "Cambridge, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your-email@example.com"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/your-profile-url"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/your-profile"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Tangsun"
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
