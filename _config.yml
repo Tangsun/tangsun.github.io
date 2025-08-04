@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Site Settings
-title: Your Name
-name: Your Name
+title: Sunbochen's Website
+name: Sunbochen Tang
 email: your-email@example.com
 include: ["_pages"]
 
@@ -13,24 +13,25 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "default" etc.
 # Production-specific settings
 url: "https://tangsun.github.io"
 repository: "tangsun/tangsun.github.io"
+# baseurl remains empty
 baseurl: ""
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sunbochen Tang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Computer Science"
+  bio              : "PhD Candidate in Autonomous Systems"
   location         : "Cambridge, MA"
   links:
-    - label: "Email"
+    - label: "tangsun[at]mit[dot]edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your-email@example.com"
+      url: ""
     - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
-      url: "https://scholar.google.com/your-profile-url"
+      icon: "fab fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=7xtBYY8AAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/your-profile"
+      url: "https://www.linkedin.com/in/sunbochen-tang/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tangsun"

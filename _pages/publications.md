@@ -5,11 +5,11 @@ layout: single
 author_profile: true
 ---
 
-## 2024
+## Learning for Dynamics and Control
 
-1.  **Your Name**, Another Author. "A Groundbreaking Paper on AI." *Journal of Important Results*, 2024. `[PDF]` `[Code]` `[Slides]`
-2.  Another Author, **Your Name**. "Further Investigations into Cool Stuff." *Proceedings of the International Conference on Knowledge*, 2024. `[PDF]`
+1.  **Sunbochen Tang**, Themistoklis Sapsis, Navid Azizan. "Learning Dissipative Chaotic Dynamics with Stability Guarantees." *Arxiv*, 2024. `[PDF]` `[Code]` `[Slides]`
+2.  **Sunbochen Tang**, Haoyuan Sun, Navid Azizan. "Meta-Learning for Adaptive Control with Automated Mirror Descent." <span style="color: red;">Best Paper Award Nominee, Oral Presentation</span> *Learning for Dynamics and Control Conference*, L4DC 2025. `[PDF]`
 
-## 2023
+<!-- ## 202
 
-1.  **Your Name**. "My First Amazing Paper." *Workshop on Beginnings*, 2023. `[PDF]`
+1.  **Your Name**. "My First Amazing Paper." *Workshop on Beginnings*, 2023. `[PDF]` -->
