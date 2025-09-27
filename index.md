@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-I am Sunbochen Tang, a Ph.D. candidate in the AeroAstro department at the Massachusetts Institute of Technology (MIT), where I am a member of the Laboratory for Information and Decision Systems (LIDS). I am fortunate to be advised by Prof. Navid Azizan, and I have also had the privilege of collaborating with Dr. Anuradha Annaswamy at MIT and Prof. Ilya Kolmanovsky at the University of Michigan.
+I am Sunbochen Tang (汤孙博忱), a Ph.D. candidate in the AeroAstro department at the Massachusetts Institute of Technology (MIT), where I am a member of the Laboratory for Information and Decision Systems (LIDS). I am fortunate to be advised by Prof. Navid Azizan, and I have also had the privilege of collaborating with Dr. Anuradha Annaswamy at MIT and Prof. Ilya Kolmanovsky at the University of Michigan.
 
 My research lies at the intersection of **control theory, machine learning, and robotics**, with a goal of **developing reliable, theoretically-grounded, and efficient AI models for safety-critical systems**. My work focuses on creating robust learning frameworks for large-scale challenges, with projects including:
 

@@ -1,0 +1,17 @@
+---
+# This front matter is required for Jekyll to process the file
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+// 1. Import the Minimal Mistakes theme's default styles
+@import "minimal-mistakes";
+
+// 2. Add your custom CSS rules below
+html {
+  font-size: 16px; // The default is 16px. Try 14px or 15px.
+}
+
+body {
+  font-family: 'Lato', sans-serif; // Apply the new font
+}
