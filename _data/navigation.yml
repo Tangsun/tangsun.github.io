@@ -2,9 +2,11 @@
 main:
   - title: "About"
     url: /
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Gallery"
+    url: /gallery/
   - title: "CV"
     url: /cv/
-  # - title: "Projects" # We will add this in the next step
-  #   url: /projects/
