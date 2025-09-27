@@ -20,7 +20,7 @@ baseurl: ""
 author:
   name             : "Sunbochen Tang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Autonomous Systems"
+  bio              : "Ph.D. Candidate in Autonomous Systems"
   location         : "Cambridge, MA"
   links:
     - label: "tangsun[at]mit[dot]edu"

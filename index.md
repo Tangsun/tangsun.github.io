@@ -4,8 +4,16 @@ permalink: /
 author_profile: true
 ---
 
-I am currently a Ph.D. candidate at MIT LIDS, fortunate to be advised by Prof. Navid Azizan. Prior to MIT, I completed my master's study in Mechanical Engineering, where I had the privilege to work with Prof. Ilya Kolmanovsky.
+I am Sunbochen Tang, a Ph.D. candidate in the AeroAstro department at the Massachusetts Institute of Technology (MIT), where I am a member of the Laboratory for Information and Decision Systems (LIDS). I am fortunate to be advised by Prof. Navid Azizan, and I have also had the privilege of collaborating with Dr. Anuradha Annaswamy at MIT and Prof. Ilya Kolmanovsky at the University of Michigan.
 
-My research integrates control theory and machine learning to develop reliable and theoretically grounded methods for decision-making in complex dynamical systems. I focus on advancing the foundations of optimization and learning theory, with an emphasis on creating practical and efficient algorithms for robotic applications.
+My research lies at the intersection of **control theory, machine learning, and robotics**, with a goal of **developing reliable, theoretically-grounded, and efficient AI models for safety-critical systems**. My work focuses on creating robust learning frameworks for large-scale challenges, with projects including:
 
-Building on this, I aim to develop safe and interpretable learning frameworks applicable to large-scale problems. This includes data-driven modeling of complex physical phenomena and decision-making under inherent model uncertainty.
+* Time-series prediction for chaotic PDEs with stability guarantees.
+
+* Adaptive control for quadrotors under unknown disturbances.
+
+* Uncertainty-aware decision-making for vision-based robots.
+
+I'm passionate about these challenges and welcome conversations with others in the field. If you'd like to connect, please don't hesitate to get in touch.
+
+When I'm not in the lab, my interests range from outdoor activities like hiking in the White Mountains and sailing on the Charles River, to hobbies like photography and playing the piano. I also enjoy traveling and visiting museums.
