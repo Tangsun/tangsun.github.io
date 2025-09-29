@@ -9,7 +9,7 @@ author_profile: true
 
 1.  **Sunbochen Tang**, Themistoklis Sapsis, Navid Azizan. "Learning Dissipative Chaotic Dynamics with Stability Guarantees." *Arxiv*, 2024. `[PDF]` `[Code]` `[Slides]`
 
-2. Andrea Goertzen\*, **Sunbochen Tang\***, Navid Azizan. "Learning Chaotic PDEs with Boundedness Guarantees." Submitted to ICLR 2026.
+2. Andrea Goertzen\*, **Sunbochen Tang\***, Navid Azizan. "Learning Chaotic PDEs with Boundedness Guarantees." Submitted to ICLR 2026. (\* Equal Contribution)
 
 ## Learning-based Adaptive Control Methods
 

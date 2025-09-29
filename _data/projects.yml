@@ -1,0 +1,15 @@
+# /_data/projects.yml - Validated Version
+
+- image_path: /assets/images/research/chaotic-dynamics-teaser.jpg
+  title: "EOC: Energy-Constrained Neural Operators for Learning Chaotic Dynamics with Boundedness Guarantees."
+  excerpt: "A novel method for learning chaotic dynamics from data, ensuring that long-term predictions remain stable and physically plausible by incorporating dissipative principles."
+  url: "#"
+  btn_label: "Learn More"
+  btn_class: "btn--inverse"
+
+- image_path: /assets/images/research/quadrotor.jpg
+  title: "Meta-Learning for Adaptive Control with Automated Mirror Descent"
+  excerpt: "This work introduces a meta-learning framework for adaptive control that enables quadrotors to adapt to unknown disturbances rapidly. This paper was nominated for a Best Paper Award at L4DC 2025."
+  url: "#"
+  btn_label: "Learn More"
+  btn_class: "btn--inverse"
