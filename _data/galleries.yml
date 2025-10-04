@@ -1,0 +1,28 @@
+# FILE: /_data/galleries.yml
+
+- category: "Photography"
+  id: "photography" # a unique, lowercase id
+  images:
+    - url: /assets/images/gallery/photos/photo1.jpg
+      alt: "A descriptive caption for photo 1"
+    - url: /assets/images/gallery/photos/photo2.jpg
+      alt: "A descriptive caption for photo 2"
+    # Add more photos from your "photos" folder here
+
+- category: "Sailing"
+  id: "sailing"
+  images:
+    - url: /assets/images/gallery/sailing/sailing1.jpg
+      alt: "Sailing on the Charles River"
+    - url: /assets/images/gallery/sailing/sailing2.jpg
+      alt: "A calm day on the water"
+    # Add more photos from your "sailing" folder here
+
+- category: "Hiking"
+  id: "hiking"
+  images:
+    - url: /assets/images/gallery/hiking/hiking1.jpg
+      alt: "View from the summit"
+    - url: /assets/images/gallery/hiking/hiking2.jpg
+      alt: "Trail through the woods"
+    # Add more photos from your "hiking" folder here

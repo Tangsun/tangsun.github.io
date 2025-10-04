@@ -50,3 +50,48 @@ body {
   height: auto;
   object-fit: contain;
 }
+
+/* -- Custom Styles for Tabbed Gallery -- */
+
+.gallery-tabs {
+  overflow: hidden;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 20px;
+}
+.gallery-tabs button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 1em;
+  font-weight: bold;
+  color: #777;
+}
+.gallery-tabs button:hover {
+  background-color: #f2f2f2;
+}
+.gallery-tabs button.active {
+  color: #000;
+  border-bottom: 2px solid #000;
+}
+.tab-content {
+  display: none;
+  animation: fadeEffect 0.5s;
+}
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 10px;
+}
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}
